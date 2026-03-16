@@ -1,0 +1,16 @@
+feature,importance
+num__App Usage Time (min/day),0.4516238056758518
+num__Number of Apps Installed,0.21618521387764242
+num__Data Usage (MB/day),0.18114468155906252
+num__Battery Drain (mAh/day),0.14257885529423675
+num__Screen On Time (hours/day),0.008467443593206102
+cat__Gender_Female,3.3275363677040106e-16
+cat__Device Model_Google Pixel 5,3.158537042711047e-17
+num__Age,9.109866616821214e-18
+cat__Operating System_iOS,8.783215779845696e-18
+cat__Device Model_OnePlus 9,0.0
+cat__Device Model_Samsung Galaxy S21,0.0
+cat__Device Model_Xiaomi Mi 11,0.0
+cat__Device Model_iPhone 12,0.0
+cat__Operating System_Android,0.0
+cat__Gender_Male,-7.176298636365062e-19

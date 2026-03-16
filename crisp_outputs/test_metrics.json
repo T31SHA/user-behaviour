@@ -1,0 +1,7 @@
+{
+  "best_model": "gradient_boosting",
+  "test_rmse": 0.009138657098835884,
+  "test_mae": 0.0008016108280446568,
+  "test_r2": 0.9999541999146622,
+  "rounded_class_accuracy": 1.0
+}
